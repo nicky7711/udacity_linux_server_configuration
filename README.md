@@ -10,8 +10,6 @@ Take a baseline installation of a Linux distribution on a virtual machine and pr
 
 - Accessible SSH port: 2200
 
-- Application URL: http://ec2-34-215-140-134.us-west-2.compute.amazonaws.com/
-
 ### Walkthrough
 
 1. Create new user named grader and give it the permission to sudo
